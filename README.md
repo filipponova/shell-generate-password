@@ -14,7 +14,6 @@ sh main.sh
 ## Password Character Recommendation
 We recommend using passwords with a minimum of 12 characters.
 
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
