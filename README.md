@@ -5,10 +5,10 @@ A simple shell script for password generation.
 ## Usage
 
 ```bash
-# first option
+# First Option
 sh main.sh
 
-# second option
+# Second Option
 ./main.sh
 
 ## Password Character Recommendation
